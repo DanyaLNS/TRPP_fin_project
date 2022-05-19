@@ -23,3 +23,6 @@ urllib3==1.26.3 <br>
 <h3>python -m pip install -r requirements. txt</h3>
 Для запуска проекта используется команда
 <h3>python main.py</h3>
+<h2>Использование setuptools</h2>
+Для запуска проекта с помощью setup.py необходимо использовать следующую команду:
+<h3>python setup.py install</h3>
